@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Cheetah",
+    "continent": "Africa",
+    "averageSpeed": 100,
+    "weight": 50
+  },
+  {
+    "id": 2,
+    "name": "Peregrine Falcon",
+    "continent": "Global",
+    "averageSpeed": 320,
+    "weight": 1
+  },
+  {
+    "id": 3,
+    "name": "Sailfish",
+    "continent": "Oceans",
+    "averageSpeed": 110,
+    "weight": 90
+  },
+  {
+    "id": 4,
+    "name": "Pronghorn",
+    "continent": "North America",
+    "averageSpeed": 88,
+    "weight": 45
+  }
+]
